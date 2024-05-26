@@ -11,7 +11,6 @@ on:
   # Trigger the workflow on push but only for the master branch
   push:
     branches:
-      - master
       - debug
 
   # Trigger current workflow on PR from ANY branch
