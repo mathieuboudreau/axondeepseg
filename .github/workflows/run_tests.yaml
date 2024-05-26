@@ -12,6 +12,7 @@ on:
   push:
     branches:
       - debug
+      - master
 
   # Trigger current workflow on PR from ANY branch
   pull_request:
